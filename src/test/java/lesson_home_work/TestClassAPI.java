@@ -1,3 +1,7 @@
+
+
+
+import com.sun.tools.xjc.reader.xmlschema.bindinfo.BIConversion;
 import io.restassured.path.json.JsonPath;
 import org.junit.BeforeClass;
 import org.junit.Test;
